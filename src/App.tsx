@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 let name: string;
-name = 'Anastasiia';
+name = 'USER';
 
 function App() {
 
